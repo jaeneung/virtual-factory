@@ -4,6 +4,10 @@ Upload manufacturing data (or connect a read-only REST API) to build an operatio
 
 Node.js + TypeScript. Server: Express + built-in `node:sqlite`. Web: React + Vite. No external services or paid APIs.
 
+**Live demo:** https://virtual-factory-production.up.railway.app (Railway, global, no VPN needed for most regions — see the note on mainland China below). Pre-loaded with the sample data and running demo API connectors; treat it as a shared demo, not a private instance.
+
+> **Mainland China access:** no Western host (Railway, Render, Vercel, AWS, …) can guarantee access from inside China without a VPN — the Great Firewall filters by IP/domain independently of the app. Reliable China access needs either a mainland China cloud region with an ICP license (weeks-long approval, requires a Chinese business/personal registration) or, as a partial improvement, a Hong Kong/Asia-Pacific region on Alibaba Cloud/Tencent Cloud International. Neither could be verified from outside China in this session.
+
 ## Requirements
 
 Node.js 22.5+ (developed on 24) and npm. `node:sqlite` is used to avoid native builds on Windows; it is still marked experimental by Node and prints a warning at start-up.
