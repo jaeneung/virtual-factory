@@ -1,0 +1,4 @@
+id,factory_id,line_id,name,equipment_type,nominal_cycle_time_sec,rate_per_hour_cost,available_hours_per_day
+EQ-STAMP-1,FAC-1,LINE-A,Stamping Press 1,stamping_press,27,45,16
+EQ-WELD-1,FAC-1,LINE-A,Welding Robot 1,welding_robot,38,60,16
+EQ-PAINT-1,FAC-1,LINE-B,Paint/E-Coat Booth 1,paint_booth,18,38,16

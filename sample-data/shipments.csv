@@ -1,0 +1,4 @@
+id,order_id,shipped_qty,ship_ts,carrier,status
+SHIP-1,ORD-0900,1000,2026-09-14T08:00:00.000Z,RoadFreight Co,shipped
+SHIP-2,ORD-1001,1500,2026-09-19T08:00:00.000Z,RoadFreight Co,shipped
+SHIP-3,ORD-1002,800,2026-09-20T08:00:00.000Z,RoadFreight Co,shipped

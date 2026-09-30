@@ -1,0 +1,8 @@
+id,product_id,step_no,step_name,equipment_type,standard_cycle_time_sec,expected_yield_pct
+RT-BP-1,PROD-BRAKE-PAD,1,Stamp backing plate,stamping_press,25,98
+RT-BP-2,PROD-BRAKE-PAD,2,E-coat backing plate,paint_booth,15,99
+RT-RT-1,PROD-ROTOR,1,Weld hub assembly,welding_robot,40,97
+RT-RT-2,PROD-ROTOR,2,Finish coat,paint_booth,20,99
+RT-CL-1,PROD-CALIPER,1,Stamp caliper bracket,stamping_press,30,97
+RT-CL-2,PROD-CALIPER,2,Weld bracket to housing,welding_robot,35,96
+RT-CL-3,PROD-CALIPER,3,Finish coat,paint_booth,18,99

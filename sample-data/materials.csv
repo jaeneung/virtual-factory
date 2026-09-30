@@ -1,0 +1,5 @@
+id,name,unit,unit_cost
+MAT-STEEL-COIL,Steel Coil Stock,kg,3.2
+MAT-FRICTION-COMPOUND,Friction Compound,kg,5
+MAT-PAINT,E-Coat Paint,L,2
+MAT-FASTENER-KIT,Fastener Kit,kit,1.5
